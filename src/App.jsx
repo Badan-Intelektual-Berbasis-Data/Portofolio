@@ -4,10 +4,8 @@ function App() {
 
   return (
     <div>
-      <div>
-        <h1 className='text-6xl'>Hello World</h1>
+        <h1>Hello World</h1>
       </div>
-    </div>
   )
 }
 
