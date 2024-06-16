@@ -13,10 +13,6 @@ export default function Navbar() {
 </svg>
 </button>
       </nav>
-      <section>
-        <p>selamat data di my bio data</p>
-        <h1>selamat kembali dan selamat</h1>
-      </section>
     </header>
   )
 }
